@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
 ## A pair of functions are defined here which enable pre computation of certain values of a 
 ## data type. In this case, the data type is a matrix and the pre computed value is 
 ## the inverse of the matrix
